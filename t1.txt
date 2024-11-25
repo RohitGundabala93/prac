@@ -4,3 +4,6 @@ hello
 hi
 hi
 ji
+hi
+ji
+jo
